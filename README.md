@@ -24,4 +24,7 @@
 ### master(Redux) Branch GitHub URL
 <https://github.com/YOUNTAEHEE/react-yth/tree/master>
 
+---
 
+### 미니 프로젝트 설명서
+<https://www.dropbox.com/scl/fi/rpnrljjp7j63ypehk50u3/.pdf?rlkey=9p1xipja6yqqk8uczyfvomrdw&dl=0>
