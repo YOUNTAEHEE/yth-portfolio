@@ -28,3 +28,8 @@
 
 ### 미니 프로젝트 설명서
 <https://www.dropbox.com/scl/fi/rpnrljjp7j63ypehk50u3/.pdf?rlkey=9p1xipja6yqqk8uczyfvomrdw&dl=0>
+
+---
+
+### 이력서
+<https://www.dropbox.com/scl/fi/7fe0yhvjv6idhrmxvalfq/.hwp?rlkey=ou458a2nsflzxtpryp8c6gpbo&dl=0>
