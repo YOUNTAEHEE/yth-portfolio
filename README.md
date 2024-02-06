@@ -1,5 +1,15 @@
 # 윤태희 포트폴리오
 
+### 미니 프로젝트 설명서
+<https://www.dropbox.com/scl/fi/rpnrljjp7j63ypehk50u3/.pdf?rlkey=9p1xipja6yqqk8uczyfvomrdw&dl=0>
+
+---
+
+### 이력서
+<https://www.dropbox.com/scl/fi/7fe0yhvjv6idhrmxvalfq/.hwp?rlkey=ou458a2nsflzxtpryp8c6gpbo&dl=0>
+
+---
+
 ### React-Query Branch GitHub URL
 <https://github.com/YOUNTAEHEE/react-yth/tree/react-query>
 ### React-Query Branch Vercel URL
@@ -24,12 +34,5 @@
 ### master(Redux) Branch GitHub URL
 <https://github.com/YOUNTAEHEE/react-yth/tree/master>
 
----
 
-### 미니 프로젝트 설명서
-<https://www.dropbox.com/scl/fi/rpnrljjp7j63ypehk50u3/.pdf?rlkey=9p1xipja6yqqk8uczyfvomrdw&dl=0>
 
----
-
-### 이력서
-<https://www.dropbox.com/scl/fi/7fe0yhvjv6idhrmxvalfq/.hwp?rlkey=ou458a2nsflzxtpryp8c6gpbo&dl=0>
