@@ -1,7 +1,7 @@
 # 윤태희 포트폴리오
 
 ### 이력서
-<https://www.dropbox.com/scl/fi/1nqknl5ficn1apapjkpcr/.pdf?rlkey=dzda04goqyjf11h5mezgchp8r&dl=0>
+<https://www.dropbox.com/scl/fi/9z53o47o56qjze7bnkpsg/.pdf?rlkey=ckx4o42bk4n59xsqb6fj9ncal&dl=0>
 
 ---
 
