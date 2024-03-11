@@ -1,10 +1,5 @@
 # 윤태희 포트폴리오
 
-### 이력서
-<https://www.dropbox.com/scl/fi/m5xi18pdrsg8729lwjcf7/.pdf?rlkey=uicd6lhndavv3gskbe3kmlt5y&dl=0>
-
----
-
 ### 미니 프로젝트 설명서
 <https://www.dropbox.com/scl/fi/rpnrljjp7j63ypehk50u3/.pdf?rlkey=9p1xipja6yqqk8uczyfvomrdw&dl=0>
 
